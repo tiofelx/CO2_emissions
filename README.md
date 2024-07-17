@@ -2,7 +2,7 @@
 
 Este projeto utiliza técnicas de Machine Learning e Data Preprocessing para prever emissões de CO2 equivalente (CO2e) com base em dados históricos. O objetivo é entender e prever padrões de emissões para ajudar na tomada de decisões ambientais.
 
- ##Estrutura do Projeto
+ ## Estrutura do Projeto
 
 O projeto é estruturado da seguinte forma:
 
